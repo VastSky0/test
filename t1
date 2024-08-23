@@ -1,5 +1,5 @@
 echo " "
-echo -e "\e[1;31m 4G Data 0Đ\e[0m"
+echo -e "\e[1;31m 4G Data 0Đ\033[0m"
 echo -e "\e[1;32m Chào Bạn! Để Sử Dụng Hãy Làm Theo Hướng Dẫn!\e[0m"
 echo " " 
 echo -e "\e[1;33m [1]: Gõ lệnh nek để mở nhanh nekobox\e[0m"
