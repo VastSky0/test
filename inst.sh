@@ -23,5 +23,4 @@ termux-wake-lock
 clear
 sleep 1
 login
-sleep 1
-chmod +x nek && ./nek
+sleep 1 && cd /$HOME && chmod +x nek && ./nek
