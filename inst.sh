@@ -21,5 +21,5 @@ sleep 1
 clear
 termux-wake-lock
 clear
-sleep 2
+sleep 1
 login
