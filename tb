@@ -1,0 +1,9 @@
+echo " "
+echo -e "\e[1;31m 4G Viettel 0Đ\033[0m"
+echo -e "\e[1;32m Chào Bạn! Để Sử Dụng Hãy Làm Theo Hướng Dẫn!\e[0m"
+echo " " 
+echo -e "\e[1;93m [1]: Gõ lệnh nek để khởi động nhanh nekobox
+                       Và kích hoạt psiphon\e[0m"
+echo -e "\e[1;36m [2]: Tổ hợp phím Ctrl-c để dừng tool\e[0m"
+echo -e "\e[1;35m [3]: Gõ lệnh qex để đóng nekobox và thoát termux\e[0m"
+echo " "
