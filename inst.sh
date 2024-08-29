@@ -9,7 +9,7 @@ apt update && apt upgrade -y
 clear
 echo -e "\e[1;93mĐang cài đặt\e[0m"
 sleep 1
-cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/VastSky0/test/raw/main/4g0d.zip && unzip 4g0d.zip && chmod a+x pb.sh && chmod a+x *
+cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/VastSky0/test/raw/main/4g0d.zip && unzip 4g0d.zip && chmod a+x *
 clear
 cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/etc/ && pkg install wget -y && wget https://github.com/VastSky0/test/raw/main/tb && mv tb motd
 clear
