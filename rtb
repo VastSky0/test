@@ -9,7 +9,7 @@ fi
 
 # TERMUX_VERSION env variable has been exported since v0.107 and PATH was being set to following value in <0.104. Last playstore version was v0.101.
 if [ $# = 0 ] && [ -f /data/data/com.termux/files/usr/etc/motd-playstore ] && [ -z "$TERMUX_VERSION" ] && [ "$PATH" = "/data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/bin/applets" ]; then
-        printf '\033[0;31m'; cat /data/data/com.termux/files/usr/etc/motd-playstore; printf '\033[0m'
+        printf '\033[0;91m'; cat /data/data/com.termux/files/usr/etc/motd-playstore; printf '\033[0m'
 fi
 
 if [ -G ~/.termux/shell ]; then
